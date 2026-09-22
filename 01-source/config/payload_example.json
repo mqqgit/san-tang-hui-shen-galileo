@@ -1,0 +1,9 @@
+{
+  "summary": "示例批次结论（占位，不含真实数据）",
+  "conclusions": ["示例：对示例银行维持持有，触发 X.X% 止损线则减仓"],
+  "decisions": ["示例股份甲：继续持有"],
+  "holdings_snapshot": [
+    {"code": "600000", "name": "示例银行", "qty": 100, "cost": "X.XX", "price": "X.XX", "float_pnl": "X.X%"},
+    {"code": "600036", "name": "示例股份甲", "qty": 100, "cost": "X.XX", "price": "X.XX", "float_pnl": "X.X%"}
+  ]
+}
